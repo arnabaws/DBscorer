@@ -974,7 +974,7 @@ classdef DBscorer_1_1_exported < matlab.apps.AppBase
             app.AreaThresholdLabel = uilabel(app.Tool);
             app.AreaThresholdLabel.HorizontalAlignment = 'right';
             app.AreaThresholdLabel.Position = [23 129 121 22];
-            app.AreaThresholdLabel.Text = 'Delta Area Threshold (%)';
+            app.AreaThresholdLabel.Text = '? Area Threshold (%)';
 
             % Create EnterThreshold
             app.EnterThreshold = uieditfield(app.Tool, 'numeric');
