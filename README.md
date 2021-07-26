@@ -29,7 +29,7 @@ For Using ffmpeg
 3. Create the following folder.
 	C:\ffmpeg\Converted_Videos
 
-4. Put the videos in a folder along with batch.bat file.
+4. Put the videos in a folder along with ffmpeg_convert.bat file.
 
 5. Double click to start conversion.
 
