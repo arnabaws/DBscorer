@@ -1,7 +1,8 @@
 # DBscorer
 Automatic Mobility Based Behavioral Quantification ( With Option for Manual Scoring )
 DBScorer Executable
-** Installation video is given.**
+
+Installation video is given.
 
 Prerequisites for Deployment 
 
