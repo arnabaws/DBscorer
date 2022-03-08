@@ -1,6 +1,7 @@
 # DBscorer
 Automatic Mobility Based Behavioral Quantification ( With Option for Manual Scoring )
 DBScorer Executable
+** Installation video is given.**
 
 Prerequisites for Deployment 
 
@@ -40,3 +41,5 @@ You can also create the .bat file by pasting the below line in notepad and savin
 
 
 for %%a in (".") do C:\ffmpeg\ffmpeg -i "%%a" -codec:v libx264 -crf 20 -vf scale=480:-1 -r 15 -an "C:\ffmpeg\Converted_Videos%%~na.mp4
+
+You can adjust the frame rate and scale in the above code.
