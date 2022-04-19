@@ -4,10 +4,6 @@ DBScorer Executable
 
 Installation video is given.
 
-[![Installation and Use]          // Demo
-(https://github.com/arnabaws/DBscorer/blob/main/Demo/DBscorer%20Installation%20and%20Use%20360p%20(1).mp4 "Installation and Use")    // Video Link
-
-
 Prerequisites for Deployment 
 
 Verify that version 9.9 (R2020b) of the MATLAB Runtime is installed.   
